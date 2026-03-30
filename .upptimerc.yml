@@ -1,8 +1,8 @@
 # Arquivo: .upptimerc.yml
 # Fica na raiz do seu repositório no GitHub criado para o Upptime
 
-owner: seu-usuario-do-github # Mude para o seu @ do GitHub
-repo: nome-do-repositorio # Ex: "monitoramento-tvaberta"
+owner: 20enzo # Mude para o seu @ do GitHub
+repo: TVAberta # Ex: "monitoramento-tvaberta"
 
 sites:
   # 1. Seu Servidor de Streaming
@@ -11,9 +11,7 @@ sites:
 
   # 2. Seu App / Webhook
   - name: 🤖 Chatbot WhatsApp (Cloud Run)
-    # IMPORTANTE: Coloque a URL pública do seu Cloud Run aqui!
-    # Já vi que você tem uma rota /health no seu server.js. Ela é perfeita para isso.
-    url: https://SUA-URL-DO-CLOUD-RUN.run.app/health
+    url: https://chatbot-whatsapp-zny5gc7sqq-uc.a.run.app/health
 
   # 3. Google Services (Essenciais para o bot)
   - name: 🧠 API do Google Gemini
