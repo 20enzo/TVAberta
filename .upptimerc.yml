@@ -25,6 +25,7 @@ sites:
 status-website:
   # Configurações de aparência da sua página pública
   cname: status.fastsolutioninfo.com
+  logoUrl: "https://raw.githubusercontent.com/20enzo/TVAberta/master/img/Logo%20FastSolution.jpeg"
   name: Status Tv Aberta
   introTitle: "**Status dos Nossos Sistemas**"
   introMessage: Acompanhe a disponibilidade dos nossos serviços em tempo real.
