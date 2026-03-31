@@ -24,10 +24,13 @@ sites:
 
 status-website:
   # Configurações de aparência da sua página pública
-  # Removido o cname para usar o endereço padrão do Github Pages
-  baseUrl: /TVAberta
-  logoUrl: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png
+  cname: status.fastsolutioninfo.com
+  logoUrl: https://github.com/20enzo/TVAberta/public/favicon.png
   name: Status Tv Aberta
   introTitle: "**Status dos Nossos Sistemas**"
   introMessage: Acompanhe a disponibilidade dos nossos serviços em tempo real.
   theme: light
+
+workflowSchedule:
+  # Agendar verificação para rodar a cada 8 horas
+  uptime: "0 */8 * * *"
