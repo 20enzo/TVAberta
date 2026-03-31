@@ -24,7 +24,7 @@ sites:
 
 status-website:
   # Configurações de aparência da sua página pública
-  cname: status.fastsolutioninfo.com
+  # cname: status.fastsolutioninfo.com
   logoUrl: https://github.com/20enzo/TVAberta/public/favicon.png
   name: Status Tv Aberta
   introTitle: "**Status dos Nossos Sistemas**"
