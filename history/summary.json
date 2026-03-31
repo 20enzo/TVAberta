@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 894,
-    "timeWeek": 894,
-    "timeMonth": 894,
-    "timeYear": 894,
+    "time": 854,
+    "timeDay": 854,
+    "timeWeek": 854,
+    "timeMonth": 854,
+    "timeYear": 854,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatbot-whatsapp-zny5gc7sqq-uc.a.run.app.ico",
     "slug": "chatbot-whats-app-cloud-run",
     "status": "down",
-    "uptime": "38.91%",
-    "uptimeDay": "38.91%",
-    "uptimeWeek": "38.91%",
-    "uptimeMonth": "38.91%",
-    "uptimeYear": "38.91%",
-    "time": 2614,
-    "timeDay": 2614,
-    "timeWeek": 2614,
-    "timeMonth": 2614,
-    "timeYear": 2614,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 3075,
+    "timeDay": 3075,
+    "timeWeek": 3075,
+    "timeMonth": 3075,
+    "timeYear": 3075,
     "dailyMinutesDown": {
-      "2026-03-30": 0
+      "2026-03-31": 85,
+      "2026-03-30": 14
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   }
 ]
