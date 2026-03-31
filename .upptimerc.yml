@@ -29,7 +29,7 @@ status-website:
   name: Status Tv Aberta
   introTitle: "**Status dos Nossos Sistemas**"
   introMessage: Acompanhe a disponibilidade dos nossos serviços em tempo real.
-  theme: light
+  theme: dark
 
 workflowSchedule:
   # Agendar verificação para rodar a cada 8 horas
