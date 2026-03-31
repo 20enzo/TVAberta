@@ -24,7 +24,8 @@ sites:
 
 status-website:
   # Configurações de aparência da sua página pública
-  cname: status.tvaberta.tv.br # Se você for apontar o seu domínio próprio
+  # Removido o cname para usar o endereço padrão do Github Pages
+  baseUrl: /TVAberta
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png
   name: Status Tv Aberta
   introTitle: "**Status dos Nossos Sistemas**"
