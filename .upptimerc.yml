@@ -24,7 +24,7 @@ sites:
 
 status-website:
   # Configurações de aparência da sua página pública
-  baseUrl: /TVAberta
+  cname: status.fastsolutioninfo.com
   name: Status Tv Aberta
   introTitle: "**Status dos Nossos Sistemas**"
   introMessage: Acompanhe a disponibilidade dos nossos serviços em tempo real.
