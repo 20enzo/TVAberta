@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/br5093.streamingdevideo.com.br.ico",
     "slug": "servidor-de-transmissao-video",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
-    "time": 1115,
-    "timeDay": 6925,
-    "timeWeek": 1845,
-    "timeMonth": 1183,
-    "timeYear": 1115,
+    "uptimeYear": "99.22%",
+    "time": 1110,
+    "timeDay": 929,
+    "timeWeek": 1813,
+    "timeMonth": 1176,
+    "timeYear": 1110,
     "dailyMinutesDown": {
       "2026-04-01": 382
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 4160,
-    "timeDay": 5241,
-    "timeWeek": 5291,
-    "timeMonth": 5013,
-    "timeYear": 4160,
+    "time": 4177,
+    "timeDay": 4856,
+    "timeWeek": 5286,
+    "timeMonth": 5171,
+    "timeYear": 4177,
     "dailyMinutesDown": {
       "2026-03-31": 97,
       "2026-03-30": 14
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 96,
-    "timeWeek": 156,
+    "time": 164,
+    "timeDay": 178,
+    "timeWeek": 161,
     "timeMonth": 179,
-    "timeYear": 163,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 121,
-    "timeWeek": 127,
+    "time": 167,
+    "timeDay": 123,
+    "timeWeek": 128,
     "timeMonth": 181,
-    "timeYear": 168,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   }
 ]
