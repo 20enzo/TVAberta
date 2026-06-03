@@ -4,20 +4,21 @@
     "url": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w694789056.m3u8",
     "icon": "https://icons.duckduckgo.com/ip3/br5093.streamingdevideo.com.br.ico",
     "slug": "servidor-de-transmissao-video",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "98.74%",
-    "time": 1032,
-    "timeDay": 762,
-    "timeWeek": 900,
-    "timeMonth": 923,
-    "timeYear": 1032,
+    "time": 1026,
+    "timeDay": 674,
+    "timeWeek": 861,
+    "timeMonth": 913,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2026-04-01": 382,
-      "2026-05-25": 785
+      "2026-05-25": 785,
+      "2026-06-03": 0
     }
   },
   {
